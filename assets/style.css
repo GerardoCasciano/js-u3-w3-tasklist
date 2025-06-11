@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(90deg,rgba(126, 190, 224, 1) 21%, rgba(149, 186, 196, 1) 57%, rgba(247, 247, 247, 1) 100%);
+}
+h1{
+    text-align: center;
+    color: #faeeee;
+    background-color: rgb(231, 169, 13);
+}
+input{
+        height: 50px;
+        width: 300px;
+}
+        
+
+.buy{
+     border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(220, 0, 0, 1);
+   box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+.style{
+    color:#1b0202
+     
+}
+#listcreated{
+    border: 1px solid rgb(255, 255, 255);
+    height: 400px;
+    background-color: aliceblue;
+}
+#listcreated button{
+      border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(220, 0, 0, 1);
+   box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+    
+
+}
